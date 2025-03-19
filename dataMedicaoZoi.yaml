@@ -1,0 +1,5 @@
+path: ./datasetMedicaoZoi  # path to dataset
+train: images/train
+val: images/val
+nc: 1  # number of classes
+names: ['Medicao']  # list of class names
